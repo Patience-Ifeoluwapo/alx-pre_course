@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "School"
+echo '#!/bin/bash' > school
+echo "The School is open!" >> school
